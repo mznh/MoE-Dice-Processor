@@ -1,0 +1,33 @@
+
+
+
+
+.input_data {
+  display: grid;
+  grid-template-columns: 300px 50px;
+}
+
+.result_block {
+  display: grid;
+  grid-template-columns: 450px auto ;
+}
+.result_text {
+  width:440px;
+  height:50px;
+  padding: 0px;
+  margin:5px;
+}
+.result_button {
+  width: 110px;
+  height:45px;
+  padding: 0px;
+  margin:5px;
+}
+textarea {
+  resize: none;
+  padding: 0px;
+  height:45px;
+}
+button {
+  height:45px;
+}

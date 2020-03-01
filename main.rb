@@ -6,7 +6,6 @@ Bundler.require
 require 'date'
 
 set :environment, :production
-set :port, 7777
 
 UPLOAD_PATH = "./logs/"
 
